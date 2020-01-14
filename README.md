@@ -1,4 +1,6 @@
-[jQuery](https://jquery.com/) — New Wave JavaScript 新一波JavaScript
+调研jQuery中的设计模式
+
+[jQuery](https://jquery.com/) — New Wave JavaScript / 新一波JavaScript
 ==================================================
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjquery%2Fjquery.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjquery%2Fjquery?ref=badge_shield)
